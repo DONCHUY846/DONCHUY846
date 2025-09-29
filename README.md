@@ -63,6 +63,21 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 * <img src="https://skillicons.dev/icons?i=postman" alt="Postman icon"> **Postman**
 * <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu icon"> **Ubuntu**
 
+*** 
+### **GITHUB STATS**
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DONCHUY846&show_icons=true&theme=radical" alt="Stats de GitHub de DonChuy846" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DONCHUY846&layout=compact&theme=vision-friendly-dark" alt="Lenguajes más usados por DonChuy846" />
+
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DONCHUY846&theme=dark" alt="Racha de Commits de DonChuy846" />
+</p>
+</p>
+
 ---
 
 Credits: [DONCHUY846](https://github.com/DONCHUY846)
