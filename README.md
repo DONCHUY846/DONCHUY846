@@ -78,6 +78,30 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 </p>
 </p>
 
+***
+### Contáctame
+
+¡Hablemos! Puedes encontrarme en estas plataformas:
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/jes%C3%BAs-avi%C3%B1a-alcala" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+ <a href="https://github.com/DONCHUY846" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ </a>
+<a href="https://donchuy846.github.io/Portafolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/>
+ </a>
+ <a href="mailto:alcalajesus846@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+ </a>
+ 
+</div>
+
+<p align="center"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV2ZDNrZ3RpNHJjNDFtNGV5bDZuODIwMnB0YjBvZ3FwMWQzODh6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5w09eHqOseCBARq7SM/giphy.gif"></p>
+
 ---
 
 Credits: [DONCHUY846](https://github.com/DONCHUY846)
