@@ -13,7 +13,7 @@
 * <img src="https://skillicons.dev/icons?i=html" alt="HTML icon"> **HTML**
 * <img src="https://skillicons.dev/icons?i=css" alt="CSS icon"> **CSS**
 * <img src="https://skillicons.dev/icons?i=react" alt="React icon"> **React**
-* <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js icon"> **Next.js**
+* **Tanstack**
 * <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS icon"> **Tailwind CSS**
 
 ***
@@ -22,7 +22,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpoNXF2amtqZ2U4czR3bjgyNTk0c2U5N2R1Z3MwcnloMGx4eGQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" height="62" width="250" alt="GIF" align="right">
 
 
-* <img src="https://skillicons.dev/icons?i=express" alt="Express.js icon"> **Express**
+* <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase icon"> **Supabase**
 
 ***
 
