@@ -73,7 +73,7 @@ Let's connect! You can find me on these platforms:
  <a href="https://github.com/DONCHUY846" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
  </a>
-<a href="https://donchuy846.github.io/Portafolio/" target="_blank">
+<a href="https://jesus-avina.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
  </a>
  <a href="mailto:alcalajesus846@gmail.com" target="_blank">
@@ -89,4 +89,4 @@ Let's connect! You can find me on these platforms:
 
 Credits: [DONCHUY846](https://github.com/DONCHUY846)
 
-Last Edited on: 16/12/2025
+Last Edited on: 24/10/2025
